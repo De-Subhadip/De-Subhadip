@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Developing data-driven reports and dashboards, automating data processing and reporting tasks, and resolving critical issues to improve efficiency and client satisfaction.<br><br>👯 I’m looking to collaborate on:<br>Data Science & Machine Learning projects<br><br>🌱 I’m currently learning:<br>Agentic AI<br><br>💬 Ask me about:<br>Python, Pandas, Tensorflow, Keras, and any other general questions related to data science.<br><br>⚡ Fun fact:<br>I love playing PC games.
+🔭 I’m currently working on:<br>Developing data-driven reports and dashboards, automating data processing and reporting tasks, and resolving critical issues to improve efficiency and client satisfaction.<br><br>👯 I’m looking to collaborate on:<br>Data Science & Machine Learning projects<br><br>🌱 I’m currently learning:<br>Agentic AI<br><br>💬 Ask me about:<br>Computer Vision, NLP, Gen AI, and any other general questions related to data science.<br><br>⚡ Fun fact:<br>I love playing PC games.
 
 
 ## 🌐 Socials:

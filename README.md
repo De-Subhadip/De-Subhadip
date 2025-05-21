@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>managing L&D for a New York based health system, and resolving critical issues to improve efficiency and client satisfaction.<br><br>👯 I’m looking to collaborate on:<br>Data Science & Machine Learning projects<br><br>🌱 I’m currently learning:<br>Agentic AI<br><br>💬 Ask me about:<br>Computer Vision, NLP, Gen AI, and any other general questions related to data science and AI.<br><br>⚡ Fun fact:<br>I love playing PC games.
+🔭 I’m currently working on:<br>Managing L&D for a New York based health system, and resolving critical issues to improve efficiency and client satisfaction.<br><br>👯 I’m looking to collaborate on:<br>Data Science & Machine Learning projects<br><br>🌱 I’m currently learning:<br>Agentic AI<br><br>💬 Ask me about:<br>Computer Vision, NLP, Gen AI, and any other general questions related to data science and AI.<br><br>⚡ Fun fact:<br>I love playing PC games.
 
 
 ## 🌐 Socials:
